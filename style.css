@@ -9,16 +9,16 @@ body {
 nav {
   background-color: SeaGreen;
   padding: 20px 20px 20px 20px;
-  color: yellow;
+  color: Yellow;
   text-align: justify;
 }
 
 .navigation:link {
-  color: yellow;
+  color: Yellow;
 }
 
 .navigation:visited {
-  color: gold;
+  color: Gold;
 }
 
 /* Search Bar */
