@@ -14,11 +14,11 @@ nav {
 }
 
 .navigation:link {
-  color: red;
+  color: yellow;
 }
 
 .navigation:visited {
-  color: yellow;
+  color: gold;
 }
 
 /* Search Bar */
