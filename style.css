@@ -11,3 +11,11 @@ nav {
   color: yellow;
   text-align: justify;
 }
+
+.navigation:link {
+  color: red;
+}
+
+.navigation:visited {
+  color: yellow;
+}
