@@ -19,3 +19,12 @@ nav {
 .navigation:visited {
   color: yellow;
 }
+
+/* Search Bar */
+.dropbutton {
+  background-color: Green;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
