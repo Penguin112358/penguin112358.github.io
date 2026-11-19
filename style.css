@@ -34,6 +34,14 @@ footer {
   color: Gold;
 }
 
+.footer:link {
+  color: Yellow;
+}
+
+.footer:visited {
+  color: Yellow;
+}
+
 .index {
 text-align: center;
 }
