@@ -15,6 +15,13 @@ nav {
   text-align: center;
 }
 
+footer {
+  background-color: SeaGreen;
+  padding: 20px 20px 20px 20px;
+  color: Yellow;
+  text-align: center;
+}
+
 .titlebody {
   text-align: center;
 }
