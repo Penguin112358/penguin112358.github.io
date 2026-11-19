@@ -34,11 +34,11 @@ footer {
   color: Gold;
 }
 
-.footer:link {
+.footertext:link {
   color: Yellow;
 }
 
-.footer:visited {
+.footertext:visited {
   color: Yellow;
 }
 
