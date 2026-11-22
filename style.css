@@ -51,6 +51,7 @@ text-align: center;
 
 .list_language {
   list-style-type: disc;
+  color: DarkGrey;
 }
 
 .list_dialect {
