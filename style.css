@@ -46,13 +46,16 @@ footer {
 text-align: center;
 
 .list-language-family {
-  list-style-type:disc;
+  list-style-type: disc;
+  fold-weight: bold;
 }
 
 .list-language {
-  list-style-type:disc;
+  list-style-type: disc;
+  fold-weight: bold;
 }
 
 .list-dialect {
   list-style-type:disc;
+  fold-weight: bold;
 }
