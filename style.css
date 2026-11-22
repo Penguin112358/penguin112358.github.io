@@ -47,15 +47,15 @@ text-align: center;
 
 .list-language-family {
   list-style-type: disc;
-  fold-weight: bold;
+  font-weight: bold;
 }
 
 .list-language {
   list-style-type: disc;
-  fold-weight: bold;
+  font-weight: bold;
 }
 
 .list-dialect {
   list-style-type:disc;
-  fold-weight: bold;
+  font-weight: bold;
 }
