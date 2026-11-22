@@ -45,17 +45,17 @@ footer {
 .index {
 text-align: center;
 
-.list-language-family {
+.list_language_family {
   list-style-type: disc;
   font-weight: bold;
 }
 
-.list-language {
+.list_language {
   list-style-type: disc;
   font-weight: bold;
 }
 
-.list-dialect {
+.list_dialect {
   list-style-type:disc;
   font-weight: bold;
 }
